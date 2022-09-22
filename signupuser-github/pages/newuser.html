@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/styles/style.css">
+    <title>Document</title>
+</head>
+<body>
+    <main>
+        <a href="/home.html">principal</a>
+
+        <div id="divformsign">
+            
+            
+            <form id="formsign" >
+                NEW USER
+                <input type="text" name="name" required placeholder="name">
+                <input type="text" name="apellido"  required placeholder="apellido">
+                <input type="email" name="email" required placeholder="email">
+                <input type="password" name="clave" required placeholder="clave">
+                <select name="type"   required>type
+                     <option value="user">user</option>
+                </select>
+                <!-- <input  required  value="user" id="tipouser"> -->
+                <input type="url" name="img" required placeholder="url imagen">
+                <!-- <input type="text"  name="frase" required placeholder="tu frase"> -->
+                <textarea name="frase" id="formsign" cols="30" rows="10"></textarea>
+                <button id="enviar" type="submit">enviar</button>
+            </form>
+            <script src="/scripts/newuser.js"></script>
+        </div>
+    </main>
+</body>
+</html>

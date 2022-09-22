@@ -1,0 +1,74 @@
+{
+  "usuarios": [
+    {
+      "id": 1,
+      "name": "carlos",
+      "apellidos": "diaz",
+      "email": "diaz-alzate@hotmail.com",
+      "clave": "1234",
+      "type": "user",
+      "img": "/imagenes/carlosimg.jfif",
+      "frase": "si lo puedes imaginar lo puedes programar"
+    },
+    {
+      "id": 2,
+      "name": "lorena",
+      "apellidos": "gomez",
+      "email": "lorey@hotmail.com",
+      "clave": "12345",
+      "type": "admin",
+      "img": "/imagenes/carlosimg.jfif",
+      "frase": "si lo puedes imaginar lo puedes programar"
+    },
+    {
+      "id": 3,
+      "name": "alison",
+      "apellidos": "diaz",
+      "email": "alison@hotmail.com",
+      "clave": "1234",
+      "type": "user",
+      "img": "/imagenes/carlosimg.jfif",
+      "frase": "si lo puedes imaginar lo puedes programar"
+    },
+    {
+      "id": 4,
+      "name": "isa",
+      "apellidos": "diaz",
+      "email": "diaz-alzat@hotmail.com",
+      "clave": "1234",
+      "type": "user",
+      "img": "/imagenes/carlosimg.jfif",
+      "frase": "si lo puedes imaginar lo puedes programar"
+    },
+    {
+      "id": 5,
+      "name": "jose",
+      "apellidos": "diaz",
+      "email": "iaz-alzate@hotmail.com",
+      "clave": "1234",
+      "type": "user",
+      "img": "/imagenes/carlosimg.jfif",
+      "frase": "si lo puedes imaginar lo puedes programar"
+    },
+    {
+      "name": "luis",
+      "apellidos": "jesus",
+      "email": "jesus@gmail.com",
+      "clave": "jesus1",
+      "type": "user",
+      "img": "https://files.magzter.com/resize/magazine/1406822624/1535953073/view/3.jpg",
+      "frase": "hola soy jesus los salvare",
+      "id": 6
+    },
+    {
+      "name": "Luis carloss",
+      "apellidos": " Galan",
+      "email": "luis.galan@gmail.com",
+      "clave": "love1",
+      "type": "user",
+      "img": "https://th.bing.com/th/id/R.1e36a6aeb314d9f1af77795e18dd4620?rik=q8PzTI%2f2bg7YVg&pid=ImgRaw&r=0",
+      "frase": "el pueblo es superior a sus diligentes",
+      "id": 7
+    }
+  ]
+}
